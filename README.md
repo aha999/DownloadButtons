@@ -1,6 +1,8 @@
 # 📥 Download Buttons
 
-Download buttons that you can use in your projects.
+Download buttons that you can use in your projects. 
+
+You're very welcome to contribute new sources and ideas!
 
 ## F-Droid
 
