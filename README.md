@@ -1,6 +1,6 @@
-# DownloadButtons
-Information on locations of app store Download buttons
+# Download Buttons
 
+Download buttons, that you can use in your projects.
 
 ## F-Droid
 
