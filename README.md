@@ -72,14 +72,14 @@ Of course it would be best to get all of the buttons in dark color, but some i c
 
 ## Mozilla add-on
 
-<img src="https://ffp4g1ylyit3jdyti1hqcvtb-wpengine.netdna-ssl.com/addons/files/2015/11/get-the-addon.png" alt="Get it on Amazon Appstore" height="55">
+<img src="https://ffp4g1ylyit3jdyti1hqcvtb-wpengine.netdna-ssl.com/addons/files/2015/11/get-the-addon.png" alt="Get it on Mozilla" height="55">
 
 - Button source: https://ffp4g1ylyit3jdyti1hqcvtb-wpengine.netdna-ssl.com/addons/files/2015/11/get-the-addon.png
 - Mozilla buttons: https://blog.mozilla.org/addons/2015/11/10/promote-your-add-ons-with-the-get-the-add-on-button/
 
 ## Thunderbird add-on
 
-<img src="https://addons.cdn.mozilla.net/static/img/addons-buttons/TB-AMO-button_1.png" alt="Get it on Amazon Appstore" height="55">
+<img src="https://addons.cdn.mozilla.net/static/img/addons-buttons/TB-AMO-button_1.png" alt="Get it on Thunderbird" height="55">
 
 - Button source: https://addons.cdn.mozilla.net/static/img/addons-buttons/TB-AMO-button_1.png
 - Buttons source: https://blog.mozilla.org/addons/2015/11/10/promote-your-add-ons-with-the-get-the-add-on-button/
@@ -90,6 +90,13 @@ Of course it would be best to get all of the buttons in dark color, but some i c
 
 - Button source: https://storage.googleapis.com/chrome-gcs-uploader.appspot.com/image/WlD8wC6g8khYWPJUsQceQkhXSlv1/HRs9MPufa1J1h5glNhut.png
 - Chrome Buttons: https://developer.chrome.com/webstore/branding#badge
+
+## Opera add-on
+
+<img src="https://dev.opera.com/extensions/branding-guidelines/addons_206x58_en@2x.png" alt="Get it on Opera" height="55">
+
+- Button source: https://dev.opera.com/extensions/branding-guidelines/addons_206x58_en@2x.png 
+- Buttons source: https://dev.opera.com/extensions/branding-guidelines/
 
 ## Snap Store
 
