@@ -1,6 +1,6 @@
 # 📥 Download Buttons
 
-Download buttons / badges that you can use in your projects. Below are also Linked their respective branding guidelines.
+Download buttons / badges that you can use in your projects. Below are also Linked their specifications and usage guidelines.
 
 You're very welcome to contribute new sources and ideas! 
 
