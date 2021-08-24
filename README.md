@@ -1,6 +1,6 @@
 # Download Buttons
 
-Download buttons, that you can use in your projects.
+Download buttons that you can use in your projects.
 
 ## F-Droid
 
