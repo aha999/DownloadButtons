@@ -11,7 +11,7 @@ It would probably be best if all of these would be downloaded into this repo, so
 Of course it would be best to get all of the buttons in dark color, but some i couldn't find immediately, so any help is appreciated.
 
 Legend (in works):
-[Mozilla](## Mozilla add-on)
+[Mozilla](# Mozilla add-on)
 
 ## F-Droid
 
