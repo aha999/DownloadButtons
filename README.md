@@ -44,8 +44,10 @@ Download buttons / badges that you can use in your projects. Below are also Link
 ## Apple app store
 
 <img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" alt="Get it on App store" height="60">
+<img src="https://www.nathanatos.com/software/images/ios-app-store-badge.png" alt="Get it on App store" height="60">
 
 - Button source: https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg
+- Second button source: https://www.nathanatos.com/software/images/ios-app-store-badge.png
 - Apple buttons: https://developer.apple.com/app-store/marketing/guidelines/
 
 ## Samsung Galaxy store
