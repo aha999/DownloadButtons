@@ -19,6 +19,8 @@ Download buttons / badges that you can use in your projects. Below are also Link
 
 - Some of the links are not official, If you can help me find official links/sources that would be great!
 
+- Donations: [Paypal](https://www.paypal.me/Slovantes)
+
 ## F-Droid
 
 <img src="https://f-droid.org/badge/get-it-on.png" alt="Get it on F-Droid" height="80">
