@@ -45,7 +45,7 @@ Download buttons / badges that you can use in your projects. Below are also Link
 
 ## Codeberg
 
-<img src="https://get-it-on.codeberg.org/get-it-on-blue-on-white.png" alt="Get it on Codeberg" height="80">
+<img src="https://get-it-on.codeberg.org/get-it-on-blue-on-white.png" alt="Get it on Codeberg" height="60">
 
 - Button source: https://get-it-on.codeberg.org/get-it-on-blue-on-white.png
 - Codeberg Button generator: https://get-it-on.codeberg.org/
