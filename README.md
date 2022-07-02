@@ -43,6 +43,13 @@ Download buttons / badges that you can use in your projects. Below are also Link
 
 - Button source: https://censorship.no/img/github-badge.png
 
+## Codeberg
+
+<img src="https://get-it-on.codeberg.org/get-it-on-blue-on-white.png" alt="Get it on Codeberg" height="80">
+
+- Button source: https://get-it-on.codeberg.org/get-it-on-blue-on-white.png
+- Codeberg Button generator: https://get-it-on.codeberg.org/
+
 ## Apple app store
 
 <img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" alt="Get it on App store" height="60">
