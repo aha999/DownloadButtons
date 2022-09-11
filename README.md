@@ -29,6 +29,11 @@ Download buttons / badges that you can use in your projects. Below are also Link
 - F-Droid buttons: https://gitlab.com/fdroid/artwork
 - F-Droid buttons 2: https://gitlab.com/fdroid/artwork/-/blob/master/badge/README.md
 
+# IzzyOnDroid
+
+<img src="https://gitlab.com/IzzyOnDroid/repo/-/raw/master/assets/IzzyOnDroid.png" alt="Get it on IzzyOnDroid" height="80">
+
+- Button source: https://gitlab.com/IzzyOnDroid/repo/-/raw/master/assets/IzzyOnDroid.png
 
 ## Google Play
 
